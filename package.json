@@ -1,0 +1,37 @@
+{
+  "name": "gentelella",
+  "version": "1.0.0",
+  "description": "Gentelella Admin is a free to use Bootstrap admin template.\r This template uses the default Bootstrap 4 styles along with a variety of powerful jQuery plugins and tools to create a powerful framework for creating admin panels or back-end dashboards.",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^1.5.3"
+  },
+  "scripts": {
+    "build": "gulp",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColorlibHQ/gentelella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColorlibHQ/gentelella/issues"
+  },
+  "homepage": "https://github.com/ColorlibHQ/gentelella#readme"
+}
